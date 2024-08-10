@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @annoyingCode (Abdul Wahab)
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Data Structures and Algorithms.
 <!-- - 💞️ I’m looking to collaborate on (don't know yet) -->
 - 📫 Reach me at abdulwahabkhan004@gmail.com
 
